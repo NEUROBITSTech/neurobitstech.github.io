@@ -1,0 +1,64 @@
+baseURL = "https://neurobits-tech.github.io/"
+theme = "minimal"
+languageCode = "en-us"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+    author = "Calin Tataru"
+    githubUsername = "#"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Quicksand" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/whatwedo/"
+    name = "What we do"
+    weight = 2
+
+[[menu.main]]
+    url = "/products/"
+    name = "Our products"
+    weight = 3
+
+[[menu.main]]
+    url = "/publications/"
+    name = "Scientific publications"
+    weight = 4
+
+[[menu.main]]
+    url = "/aboutus/"
+    name = "About us"
+    weight = 5
+
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 6
+    
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:neurobits-tech@proton.me"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/wirawara/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/antifreezeprot/"
+    name = "twitter"
+    weight = 3
