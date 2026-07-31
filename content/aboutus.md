@@ -1,7 +1,9 @@
 ---
+site: blogdown:::blogdown_site
 layout: page
-title: About us
----
+title: Andrea Komljenovic
+overlay: true
+--- 
 
 ### About us
 
