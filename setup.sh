@@ -13,7 +13,7 @@
 export LC_TIME=en_US.UTF-8
 
 # GitHub username.
-USERNAME=neurobits-tech
+USERNAME=neurobitstech
 # Name of the branch containing the Hugo source files.
 SOURCE=hugo
 # The commit message.
