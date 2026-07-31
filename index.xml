@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NEUROBITS Tech</title>
-    <link>https://neurobits-tech.github.io/</link>
+    <link>https://neurobitstech.github.io/</link>
     <description>Recent content in NEUROBITS Tech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://neurobits-tech.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://neurobitstech.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our products</title>
-      <link>https://neurobits-tech.github.io/products/</link>
+      <link>https://neurobitstech.github.io/products/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://neurobits-tech.github.io/products/</guid>
@@ -17,19 +17,19 @@
     
     <item>
       <title>Publications</title>
-      <link>https://neurobits-tech.github.io/publications/</link>
+      <link>https://neurobitstech.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andreakomljenovic.github.io/publications/</guid>
+      <guid>https://neurobitstech.github.io/publications/</guid>
       <description>Publications Komljenovic A*, Roux J*, Wollbrett J, Robinson-Rechavi M, Bastian FB (2018): BgeeDB, an R package for retrieval of curated expression datasets and for gene list expression localization enrichment tests. F1000Research 5:2748. Komljenovic A, Li H, Kutalik Z, Auwerx J, Robinson-Rechavi M (2019): Cross-species functional modules link proteostasis to human normal aging. PLoS Computational Biology 15 (7), e1007162. Li H, Rukina D, David FPA, Li TY, Oh CM, Gao AW, Katsyuba E, Bou Sleiman M, Komljenovic A, Huang Q, Williams RW, Robinson-Rechavi M, Shoojans K, Morgenthaler S, Auwerx J (2019): Identifying gene function and module connections by the integration of multispecies expression compendia.</description>
     </item>
     
     <item>
       <title>About us</title>
-      <link>https://andreakomljenovic.github.io/aboutus/</link>
+      <link>https://neurobitstech.github.io/aboutus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andreakomljenovic.github.io/aboutus/</guid>
+      <guid>https://neurobitstech.github.io/aboutus/</guid>
       <description>Packages Komljenovic A, Julien Roux, Marc Robinson-Rechavi, Frédéric Bastian (2016):
 BgeeDB, an R package for retrieval of curated expression datasets and for gene list enrichment tests.
 Bioconductor </description>
