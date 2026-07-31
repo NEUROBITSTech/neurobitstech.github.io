@@ -1,4 +1,4 @@
-baseURL = "https://neurobits-tech.github.io/"
+baseURL = "https://neurobitstech.github.io/"
 theme = "minimal"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
