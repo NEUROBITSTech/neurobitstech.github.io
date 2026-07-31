@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NEUROBITS Tech</title>
-    <link>https://neurobits-tech.github.io/</link>
+    <link>https://neurobitstech.github.io/</link>
     <description>Recent content in NEUROBITS Tech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://neurobits-tech.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://neurobitstech.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our products</title>
-      <link>https://neurobits-tech.github.io/products/</link>
+      <link>https://neurobitstech.github.io/products/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://neurobitstech.github.io/products/</guid>
@@ -26,7 +26,7 @@
     
     <item>
       <title>About us</title>
-      <link>https://andreakomljenovic.github.io/aboutus/</link>
+      <link>https://neurobitstech.github.io/aboutus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andreakomljenovic.github.io/aboutus/</guid>
