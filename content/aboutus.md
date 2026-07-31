@@ -5,7 +5,8 @@ title: About us
 
 ### About us
 
-<img src="me_with_background.png" alt="Andrea Komljenovic"/>
+<img src="me_with_background.png" alt="Andrea Komljenovic" width="200">
+
 
 CEO of the company: Dr. sc. Andrea Komljenovic 
 
