@@ -5,10 +5,6 @@ title: NEUROBITS Tech
 overlay: true
 --- 
 
- <video width="2000" autoplay muted loop playsinline>
-        <source src="video/keyboard_typing.mp4" type="video/mp4">
- </video>
-
 <img src="neurobits_tech_company_logo.png" alt="NEUROBITS Tech"/>
 
 NEUROBITS Tech is a software start-up in the medical and health sector (MedTech). 
