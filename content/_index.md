@@ -5,7 +5,7 @@ title: NEUROBITS Tech
 overlay: true
 --- 
 
-<video width=“1000” autoplay muted loop playsinline>
+<video width=“1500” autoplay muted loop playsinline>
         <source src="video/elegant_design_brain.mp4" type="video/mp4">
 </video>
 
