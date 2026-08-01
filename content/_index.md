@@ -5,8 +5,9 @@ title: NEUROBITS Tech
 overlay: true
 --- 
 
-<video controls>
-  <source src="keyboard_typing.mp4" type="video/keyboard_typing.mp4">
+<video width="640" controls>
+    <source src="video/keyboard_typing.mp4" type="video/mp4">
+    Your browser does not support the video tag.
 </video>
 
 
