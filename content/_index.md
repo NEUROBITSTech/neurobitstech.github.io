@@ -9,7 +9,7 @@ overlay: true
         <source src="video/elegant_design_brain.mp4" type="video/mp4">
 </video>
 
-<img src="neurobits_tech_company_logo.png" alt="NEUROBITS Tech" width="200" height="100"/>
+<img src="neurobits_tech_company_logo.png" alt="NEUROBITS Tech" width="150">
 
 
 NEUROBITS Tech is a software start-up in the medical and health sector (MedTech). 
