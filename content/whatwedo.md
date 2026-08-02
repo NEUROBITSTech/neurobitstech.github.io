@@ -28,3 +28,6 @@ We are also analyzing data from different sequencing platforms in the company:
 2. spatial multi-omics, 
 3. metabolomics, 
 4. RNAseq.
+
+
+ <img src="/images/steto_fancy.jpeg" alt="" width="150">
