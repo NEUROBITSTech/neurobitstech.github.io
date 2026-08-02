@@ -30,4 +30,8 @@ We are also analyzing data from different sequencing platforms in the company:
 4. RNAseq.
 
 
- <img src="/images/steto_fancy.jpeg" alt="" width="150">
+<div style="text-align:center;">
+    <img src="/images/steto_fancy.jpeg" alt="Stethoscope"
+         style="width:400px; max-width:100%; height:auto;">
+</div>
+
