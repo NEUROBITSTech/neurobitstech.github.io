@@ -2,6 +2,38 @@ html, body {
     height: 100%;
 }
 
+.about-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    align-items: start;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.left-column,
+.right-column {
+    padding: 10px;
+}
+
+.left-column ul,
+.right-column ul {
+    padding-left: 20px;
+}
+
+.left-column li,
+.right-column li {
+    margin-bottom: 10px;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+    .about-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+
 .page-bg {
   position: relative;
   min-height: 100vh;
