@@ -5,10 +5,26 @@ title: What we do
 
 ### What we do
 
-<img src="neurobits_tech_company_logo.png" alt="NEUROBITS Tech"/>
+***Software development, smartphone applications and multi-omics analysis***
+               *** - all in one place. ***
 
-NEUROBITS Tech is a software start-up in the medical and health sector (MedTech). 
 
-The company focuses on "Neuro Health Analytics" and the analysis of biomarkers derived from neuro-sequencing—particularly regarding neurological diseases and disorders—utilizing various sequencing platforms. Its goal is to develop groundbreaking therapeutics for these neurological conditions. 
 
-The start-up’s activities rest on three pillars: software development, multi-omics analysis, and smartphone applications for use by patients and in hospitals.
+![MetaboTest](MetaboTestIcon2026.png) MetaboTest – a 99% accurate fast test for multiple sclerosis from metabolomics  
+
+
+***Software development***
+
+1. software for neuro/brain data analysis, but also others
+2. interactive websites for medical doctors
+3. smartphone applications for patients
+
+
+***Multi-omics analysis***
+
+We are also analyzing data from different sequencing platforms in the company: 
+
+1. single-cell RNAseq, 
+2. spatial multi-omics, 
+3. metabolomics, 
+4. RNAseq.
