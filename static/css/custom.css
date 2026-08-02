@@ -3,3 +3,19 @@
   background-size: cover; 
   background-position: center;
 }
+
+.brand {
+    display: flex;
+    align-items: center; /* Vertically aligns the logo and text */
+    gap: 15px;           /* Space between the logo and the text */
+}
+
+.brand-text h2,
+.brand-text h5 {
+    margin: 0;
+}
+
+.brand-text h5 {
+    margin-top: 5px;
+    color: #666;
+}
