@@ -18,4 +18,4 @@ The company focuses on "Neuro Health Analytics" and the analysis of biomarkers d
 
 The pipelines developed by the company are based on bioinformatics workflows designed to identify potential drug candidates for neurological diseases and disorders—such as Alzheimer’s, amyotrophic lateral sclerosis (ALS), spinal cord injuries, and multiple sclerosis.
 
-<img src="/images/neurobits_tech_poster.jpg” alt="" width="150">
+<img src="/images/neurobits_tech_poster.jpg” alt="NEUROBITSTech poster" width="150">
