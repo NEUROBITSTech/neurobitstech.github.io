@@ -8,10 +8,10 @@ overlay: true
 ### Hackathon win 2024 🏆
 
 
-<img src="HACKATHON.jpeg" alt="" width="200">
-<img src="hackathon_pic1.jpeg" alt="Our CEO Andrea Komljenovic winning the hackathon in 2024" width="200">
-<img src="hackathon_pic2.jpeg" alt="Hackathon preparations during 2024" width="200">
-<img src="computer_gif.gif" alt="" width="200">
+<img src="HACKATHON.jpeg" alt="" width="400">
+<img src="hackathon_pic1.jpeg" alt="Our CEO Andrea Komljenovic winning the hackathon in 2024" width="400">
+<img src="hackathon_pic2.jpeg" alt="Hackathon preparations during 2024" width="400">
+<img src="computer_gif.gif" alt="" width="400">
 
 
 Our CEO Andrea won the Hackathon in 2024 🏆
