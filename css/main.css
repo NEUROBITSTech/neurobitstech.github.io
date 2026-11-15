@@ -12,6 +12,12 @@ html, body {
   background-repeat: no-repeat;
 }
 
+.hackathon-image {
+    width: 700px;
+    max-width: 100%;
+    height: auto;
+}
+
 .page-bg-overlay {
   position: absolute;
   inset: 0;
